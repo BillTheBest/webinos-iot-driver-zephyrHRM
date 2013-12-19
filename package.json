@@ -1,4 +1,4 @@
-{ "name": "webinos-driver-zephyrhrm"
+{ "name": "webinos-iot-driver-zephyrHRM"
 , "publishConfig": { "tag": "alpha" }
 , "description": "Zephyr Heart Rate Monitor Driver"
 , "keywords": [ "webinos", "zephyr", "hrm", "driver"]
@@ -17,6 +17,7 @@
 , "main": "./lib/driverHandle.js"
 , "dependencies":
   {
+    "serialport": "1.2.x"
   }
 , "bundleDependencies":
   [

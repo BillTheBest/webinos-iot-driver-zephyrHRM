@@ -1,4 +1,4 @@
-webinos-driver-zephyrHRM
+webinos-iot-driver-zephyrHRM
 ===================
 
 Webinos Zephyr HRM driver handler that read data from Zephyr Heart Rate Monitor via bluetooth.
